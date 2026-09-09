@@ -29,4 +29,4 @@ Análise exploratória de dados de e-commerce brasileiro (dataset Olist) com Pyt
 
 ## 📫 Contato
 - 📧 iury.bmagalhaes@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/iury-benter-magalhaes)
+- 💼 [LinkedIn](https://www.linkedin.com/in/iury-benter-/)
