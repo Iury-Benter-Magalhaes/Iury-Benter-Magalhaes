@@ -27,6 +27,11 @@ Construção de um Data Warehouse moderno com SQL Server, usando arquitetura med
 ### 📊 [olist-ecommerce-analysis](https://github.com/Iury-Benter-Magalhaes/olist-ecommerce-analysis)
 Análise exploratória de dados de e-commerce brasileiro (dataset Olist) com Python e Pandas — investigando o impacto de atrasos de entrega na satisfação do cliente, por categoria e região.
 
+### 📈 [ibm-hr-attrition-analysis](https://github.com/Iury-Benter-Magalhaes/ibm-hr-attrition-analysis)
+<img src="ibm-hr-attrition-logo.svg" width="60" alt="logo">
+
+Análise preditiva de rotatividade de funcionários (attrition) a partir do dataset IBM HR Analytics. O projeto investiga os principais fatores associados ao desligamento de colaboradores — como satisfação no trabalho, tempo de casa, salário, horas extras e equilíbrio entre vida pessoal e profissional — combinando Python para tratamento e análise exploratória dos dados com Power BI para a construção de dashboards interativos, permitindo visualizar padrões de attrition por departamento, cargo, faixa etária e perfil demográfico.
+
 ## 📫 Contato
 - 📧 iury.bmagalhaes@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/iury-benter-/)
