@@ -1,6 +1,6 @@
 # Olá, sou o Iury 👋
 
-🔄 Em transição de carreira para Data Engineering
+🔄 Em transição de carreira para Análise de dados
 
 ## 🎯 Objetivo
 Buscando oportunidades como Data Engineer Júnior / Analista de Dados, aplicando na prática os conceitos de modelagem, ETL e cloud que venho desenvolvendo.
