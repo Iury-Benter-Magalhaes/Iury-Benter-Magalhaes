@@ -16,7 +16,7 @@ Buscando oportunidades como Data Engineer Júnior / Analista de Dados, aplicando
 - **SQL Server / T-SQL** — modelagem de dados, ETL, otimização de queries
 - **Data Warehousing** — arquitetura medallion (bronze/silver/gold)
 - **Python** — Pandas, análise exploratória de dados
-- **AWS** — preparando certificação CLF-C02, com SAA-C03 e DEA-C01 no roadmap
+- **PowerBI** — criação de dashboards e relatórios interativos, DAX e modelagem de dados para visualização.
 - **Git & GitHub** — versionamento e organização de projetos
 
 ## 📌 Projetos em destaque
