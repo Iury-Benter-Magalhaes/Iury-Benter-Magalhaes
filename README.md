@@ -1,16 +1,15 @@
 # Olá, sou o Iury 👋
 
-🔄 Em transição de carreira para Análise de dados
+🔄 Analista de Dados
 
-## 🎯 Objetivo
-Buscando oportunidades como Data Engineer Júnior / Analista de Dados, aplicando na prática os conceitos de modelagem, ETL e cloud que venho desenvolvendo.
+🎯 Objetivo
 
-- 🔭 Atualmente trabalhando no meu projeto de Data Warehouse com arquitetura medallion (bronze/silver/gold)
-- 🌱 Estudando SQL Server, Data Warehousing e me preparando para a certificação AWS CLF-C02
-- 👯 Aberto a colaborar em projetos de dados, ETL e análise exploratória
-- 🤔 Buscando orientação e feedback de quem já atua como Data Engineer
-- 💬 Pode me perguntar sobre SQL, modelagem de dados ou minha transição de carreira em TI
-- 📫 Como me encontrar: veja a seção de contato abaixo
+Buscando oportunidades como Analista de Dados, aplicando na prática os conceitos de modelagem, ETL e análise de dados que venho desenvolvendo.
+
+📊 Focando no projeto IBM para aplicar SQL e PowerBI na análise de dados
+🤝 Aberto a colaborar em projetos de dados, ETL e análise exploratória
+🙏 Buscando orientação e feedback de quem já atua como Data Analyst
+📬 Como me encontrar: veja a seção de contato abaixo
 
 ## 🛠️ Stack em desenvolvimento
 - **SQL Server / T-SQL** — modelagem de dados, ETL, otimização de queries
